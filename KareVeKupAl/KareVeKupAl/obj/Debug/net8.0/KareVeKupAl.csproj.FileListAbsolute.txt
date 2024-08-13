@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\bin\Debug\net8.0\KareVeKupAl.exe
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\bin\Debug\net8.0\KareVeKupAl.deps.json
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\bin\Debug\net8.0\KareVeKupAl.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\bin\Debug\net8.0\KareVeKupAl.dll
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\bin\Debug\net8.0\KareVeKupAl.pdb
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\KareVeKupAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\KareVeKupAl.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\KareVeKupAl.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\KareVeKupAl.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\KareVeKupAl.dll
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\refint\KareVeKupAl.dll
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\KareVeKupAl.pdb
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\KareVeKupAl.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorithms\KareVeKupAl\KareVeKupAl\obj\Debug\net8.0\ref\KareVeKupAl.dll
